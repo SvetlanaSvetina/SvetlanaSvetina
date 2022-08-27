@@ -20,7 +20,7 @@
 
 - :zap: In my free time, I read a lot of different tech articles.
 
-- :mailbox:How to reach me: <a href="https://msngr.link/tg/Svetlana_mav">Написать в Telegram</a>
+- :mailbox: How to reach me: vasilek378@gmail.com
 
 ### :hammer_and_wrench: Languages and Tools :
 
@@ -31,8 +31,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   
-### :fire: My Stats :
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SvetlanaVasilek&theme=dark&background=000000)](https://git.io/streak-stats)
+  
   
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SvetlanaVasilek&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
