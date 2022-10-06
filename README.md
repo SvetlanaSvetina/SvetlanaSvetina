@@ -31,8 +31,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   
-  
-  
+ 
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SvetlanaVasilek&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
   
@@ -45,4 +44,4 @@
 [Java for testers.pdf](https://github.com/SvetlanaSvetina/SvetlanaSvetina/files/9723805/Java.for.testers.pdf)
 
 
-
+  
