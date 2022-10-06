@@ -36,11 +36,13 @@
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SvetlanaVasilek&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
   
-Мои сертификаты:
+**my certificates**
 
-[ручное тестирование веб-приложений.pdf] (https://github.com/SvetlanaSvetina/SvetlanaSvetina/files/9723777/-.pdf)
+[manual testing.pdf](https://github.com/SvetlanaSvetina/SvetlanaSvetina/files/9723806/manual.testing.pdf)
 
-[сертификат - Java для тестировщиков.pdf](https://github.com/SvetlanaSvetina/SvetlanaSvetina/files/9723779/-.Java.pdf)
+[git control system.pdf](https://github.com/SvetlanaSvetina/SvetlanaSvetina/files/9723804/git.control.system.pdf)
 
-[сертификат-GIT - система контроля версий.pdf](https://github.com/SvetlanaSvetina/SvetlanaSvetina/files/9723780/-GIT.-.pdf)
+[Java for testers.pdf](https://github.com/SvetlanaSvetina/SvetlanaSvetina/files/9723805/Java.for.testers.pdf)
+
+
 
