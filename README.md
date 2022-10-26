@@ -25,19 +25,24 @@
 
 ### :woman_technologist: My hard skills
 
-- :heavy_check_mark: **Test Design**;
+**Основные навыки**:
 
-- :heavy_check_mark: **Test documentation: checklist, test case;**
+- :heavy_check_mark: Test Design 
 
-- :heavy_check_mark: **Bug reports (Jira, Google Docs);**
+- :heavy_check_mark: Tester instruments: 
+DevTools 
+Postman
+JMeter
+Git (bash) 
+SQL (начальный уровень)
+JAVA (начальный уровень)
 
-- :heavy_check_mark: **Devtools**;
-
-- :heavy_check_mark: **GIT, GITHub**;
-
-- :heavy_check_mark: **Testing REST API (using Jmeter)**;
-
-- :heavy_check_mark: **Testing UI (usin Devtools)**;
+- :heavy_check_mark: Automatic testing with Java:
+(UI, API, SQL)
+IntelliJ IDEA (Maven, Gradle )
+Selenium
+JIRA
+CI (Git HUB, Appveyor)
 
 
 
