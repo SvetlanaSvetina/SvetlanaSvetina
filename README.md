@@ -25,7 +25,6 @@
 
 ### :woman_technologist: My hard skills
 
-**Основные навыки**:
 
 - :heavy_check_mark: Test Design 
 
