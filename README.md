@@ -16,7 +16,7 @@
 
 ### :woman_technologist: About Me :
 
-- :telescope: I am currently studying to become an QA engineer in Netology.
+- :telescope: Igraduated from manual testing courses in Netology in December 2022.
 
 - :zap: In my free time, I read a lot of different tech articles.
 
