@@ -83,3 +83,4 @@ CI (Git HUB, Appveyor)
 
 
   
+[Tester.pdf](https://github.com/SvetlanaSvetina/SvetlanaSvetina/files/10420601/default.pdf)
